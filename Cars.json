@@ -1,0 +1,40 @@
+{
+"results" : [
+
+  {
+    "objectId": "EYFU2G69wk",
+    "name": "volvo",
+    "createdAt": "2019-02-25T20:17:37.462Z",
+    "updatedAt": "2019-02-25T20:17:44.678Z",
+    "color": "red"
+  },
+  {
+    "objectId": "7LeohZl53S",
+    "color": "red",
+    "createdAt": "2019-02-25T20:17:49.759Z",
+    "updatedAt": "2019-02-25T20:17:53.549Z",
+    "name": "camaro"
+  },
+  {
+    "objectId": "UEPADC2z2X",
+    "color": "yellow",
+    "createdAt": "2019-02-26T11:35:16.034Z",
+    "updatedAt": "2019-02-26T11:35:22.443Z",
+    "name": "BMW"
+  },
+  {
+    "objectId": "iZBqUEHeJG",
+    "name": "toyota",
+    "createdAt": "2019-02-26T11:35:34.625Z",
+    "updatedAt": "2019-02-26T11:36:14.900Z",
+    "color": "blue"
+  },
+  {
+    "objectId": "6bkHvuB21Q",
+    "name": "BMW",
+    "createdAt": "2019-02-26T11:37:03.280Z",
+    "updatedAt": "2019-02-26T11:37:11.446Z",
+    "color": "black"
+  }
+]
+}
