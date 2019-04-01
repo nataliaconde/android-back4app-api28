@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067072280754",
+    "firebase_url": "https://androidapi28.firebaseio.com",
+    "project_id": "androidapi28",
+    "storage_bucket": "androidapi28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067072280754:android:587730139a2ed77b",
+        "android_client_info": {
+          "package_name": "com.back4app.back4appandroid9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067072280754-ajd868p436sq6q0c40g1i6r7jtgnvrdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRgTLY3u4ZFbJANL6ky1hRlOQjGw97-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
