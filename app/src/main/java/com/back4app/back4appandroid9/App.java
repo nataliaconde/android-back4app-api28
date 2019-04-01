@@ -3,6 +3,7 @@ package com.back4app.back4appandroid9;
 import android.app.Application;
 
 import com.parse.Parse;
+import com.parse.ParseInstallation;
 
 public class App extends Application {
     @Override
@@ -16,5 +17,8 @@ public class App extends Application {
                 .server(getString(R.string.back4app_server_url))
                 .build()
         );
+        ParseInstallation installation = ParseInstallation.getCurrentInstallation();
+        installation.put("GCMSenderId", "1067072280754");
+        installation.saveInBackground();
     }
 }
